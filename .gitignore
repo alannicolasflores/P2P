@@ -1,5 +1,7 @@
-### IntelliJ IDEA ###
+
 out/
+!out/artifacts/Practica6_jar/Practica6.jar
+
 !**/src/main/**/out/
 !**/src/test/**/out/
 
